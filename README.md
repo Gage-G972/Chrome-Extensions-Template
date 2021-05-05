@@ -1,1 +1,1 @@
-# Chrome-Extensions-Template
+Just edit the manifest photos and add your code. For complete instructions from google itself go to: https://developer.chrome.com/docs/extensions/mv3/getstarted/, or get the extension instructions: https://chrome.google.com/webstore/detail/how-to-make-chrome-extens/kcekgmndcdbeflkloloihblbepjnpfom. Thanks!!!
